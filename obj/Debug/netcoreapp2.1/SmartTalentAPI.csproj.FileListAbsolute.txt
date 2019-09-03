@@ -1,0 +1,15 @@
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.csprojAssemblyReference.cache
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.csproj.CoreCompileInputs.cache
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.RazorAssemblyInfo.cache
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.RazorAssemblyInfo.cs
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.AssemblyInfoInputs.cache
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.AssemblyInfo.cs
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\bin\Debug\netcoreapp2.1\SmartTalentAPI.deps.json
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\bin\Debug\netcoreapp2.1\SmartTalentAPI.runtimeconfig.json
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\bin\Debug\netcoreapp2.1\SmartTalentAPI.runtimeconfig.dev.json
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\bin\Debug\netcoreapp2.1\SmartTalentAPI.dll
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\bin\Debug\netcoreapp2.1\SmartTalentAPI.pdb
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.dll
+C:\Users\ESTE04\source\repos\SmartTalentAPI\SmartTalentAPI\obj\Debug\netcoreapp2.1\SmartTalentAPI.pdb
